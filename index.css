@@ -1,0 +1,25 @@
+body {
+  color: black;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#inc-btn,
+#dec-btn {
+  background: darkred;
+}
